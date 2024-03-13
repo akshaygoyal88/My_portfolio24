@@ -1,0 +1,127 @@
+.resume {
+  gap: 20px;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.leftColumn {
+  flex: 1;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+}
+
+.header div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.rightColumn {
+  flex: 2;
+}
+
+.seprator {
+  border-left: 1px solid gray;
+}
+
+.section {
+  margin: 1rem 0 1rem 0;
+}
+
+.section h2 {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.section p {
+  font-size: 1.4em;
+}
+
+.section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.section ul li {
+  margin-bottom: 5px;
+  font-size: 1.2em;
+}
+
+.job {
+  margin-bottom: 20px;
+}
+
+.job h3 {
+  font-size: 1.7em;
+}
+
+.job p {
+  margin-bottom: 10px;
+}
+
+.downloadButton {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.downloadButton button {
+  padding: 0.6rem;
+  border-radius: 6px;
+  background-color: rgb(187, 113, 23);
+  color: white;
+  font-weight: 800;
+  border: none;
+}
+
+@media (max-width: 768px) {
+  .resume {
+    flex-direction: column;
+    padding: 1rem; /* Adjust padding for smaller screens */
+  }
+
+  .leftColumn,
+  .rightColumn {
+    width: 100%; /* Full width on smaller screens */
+  }
+
+  .seprator {
+    display: none; /* Hide separator on smaller screens */
+  }
+
+  .header img {
+    width: 80px; /* Reduce image size for smaller screens */
+    height: 80px;
+  }
+
+  .section h2 {
+    font-size: 1.3rem; /* Reduce heading size for smaller screens */
+  }
+
+  .section p,
+  .section ul li {
+    font-size: 1em; /* Reduce text size for smaller screens */
+  }
+
+  .job h3 {
+    font-size: 1.5em; /* Reduce heading size for smaller screens */
+  }
+}
