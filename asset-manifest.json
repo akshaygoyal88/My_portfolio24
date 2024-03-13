@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/My_portfolio24/static/css/main.e9fa2e6b.css",
-    "main.js": "/My_portfolio24/static/js/main.df47c9ab.js",
-    "static/js/703.d0012955.chunk.js": "/My_portfolio24/static/js/703.d0012955.chunk.js",
-    "static/js/635.463e1ff0.chunk.js": "/My_portfolio24/static/js/635.463e1ff0.chunk.js",
+    "main.js": "/My_portfolio24/static/js/main.e78961be.js",
+    "static/js/703.c4147af7.chunk.js": "/My_portfolio24/static/js/703.c4147af7.chunk.js",
+    "static/js/635.0f3f0a3d.chunk.js": "/My_portfolio24/static/js/635.0f3f0a3d.chunk.js",
     "static/media/mock5.png": "/My_portfolio24/static/media/mock5.c9b5f54e8517e13fc897.png",
     "static/media/resumeakshay.pdf": "/My_portfolio24/static/media/resumeakshay.09cc9add9dfbf7181dd1.pdf",
     "static/media/akshay.jpg": "/My_portfolio24/static/media/akshay.fd1d73f2ed2989e6ea84.jpg",
@@ -13,12 +13,12 @@
     "static/media/mock4.png": "/My_portfolio24/static/media/mock4.2b2ba794bc5cd75eb2c1.png",
     "index.html": "/My_portfolio24/index.html",
     "main.e9fa2e6b.css.map": "/My_portfolio24/static/css/main.e9fa2e6b.css.map",
-    "main.df47c9ab.js.map": "/My_portfolio24/static/js/main.df47c9ab.js.map",
-    "703.d0012955.chunk.js.map": "/My_portfolio24/static/js/703.d0012955.chunk.js.map",
-    "635.463e1ff0.chunk.js.map": "/My_portfolio24/static/js/635.463e1ff0.chunk.js.map"
+    "main.e78961be.js.map": "/My_portfolio24/static/js/main.e78961be.js.map",
+    "703.c4147af7.chunk.js.map": "/My_portfolio24/static/js/703.c4147af7.chunk.js.map",
+    "635.0f3f0a3d.chunk.js.map": "/My_portfolio24/static/js/635.0f3f0a3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9fa2e6b.css",
-    "static/js/main.df47c9ab.js"
+    "static/js/main.e78961be.js"
   ]
 }
